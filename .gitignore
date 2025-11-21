@@ -1,0 +1,19 @@
+# Fichiers sensibles
+.env
+meteo.db
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environnements virtuels
+venv/
+EnvData/
+
+# IDE et système
+.vscode/
+.idea/
+*.swp
+.DS_Store

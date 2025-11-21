@@ -1,0 +1,11 @@
+#  pour appeler l’API
+requests 
+
+# pour nettoyer et manipuler les données
+pandas 
+
+# pour la base MySQL
+mysql-connector-python 
+
+# pour gérer ta clé API en sécurité
+python-dotenv 
